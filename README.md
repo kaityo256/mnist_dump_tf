@@ -28,6 +28,11 @@ python3 mnist_dump_tf.py
 
 This script will create directories `train` and `test`, and dumps images to them.
 
+The dumped images are as follows.
+
+![zeros](img/zero.png)
+![fives](img/five.png)
+
 ## License
 
 MIT
